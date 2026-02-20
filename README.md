@@ -8,8 +8,8 @@ Developed using Python, but with full functionality.
 
 ## 📖 Table of Contents
 
-* [Target](#target)
-* [Inspection record](#inspection-record)
+* [Target](#-target)
+* [Inspection record](#-inspection-record)
 
 ## 🎯 Target
 
@@ -32,7 +32,7 @@ flowchart TB
 ```
 This is a diagram of the project.
 
-## Inspection record
+## 📜 Inspection record
 
 Compress the enwik8 file.
 
