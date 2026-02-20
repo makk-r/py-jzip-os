@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "jzip"
+version = "26.1"
+description = "is zip upgrade"
+authors = [
+    {name = "makkhawan", email = "makkawan2553@gmail.com"}
+]
+readme = "README.md"
