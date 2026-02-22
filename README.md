@@ -32,6 +32,10 @@ flowchart TB
 ```
 This is a diagram of the project.
 
+We strive to make everything as convenient as possible.
+
+However, this installer was partially developed using the C programming language.
+
 ## 📜 Inspection record
 
 Compress the enwik8 file.
