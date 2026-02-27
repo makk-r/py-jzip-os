@@ -1,0 +1,18 @@
+name: Device Test
+on: [push]
+
+env:
+  PIP_BREAK_SYSTEM_PACKAGES: 1
+
+jobs:
+  Install:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pull
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install
+        run: pip install -e . --break-system-packages
