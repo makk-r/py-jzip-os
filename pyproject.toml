@@ -3,7 +3,7 @@ requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "jzip"
+name = "py_jzip"
 version = "26.1"
 description = "is zip upgrade"
 authors = [
